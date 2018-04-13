@@ -1,0 +1,2 @@
+# Ignorar el contenido de las carpetas bower-components y node-modules
+node_modules/
